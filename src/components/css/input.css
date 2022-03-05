@@ -1,0 +1,11 @@
+.container {
+  width: 20%;
+  align-items: center;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(179, 236, 233);
+}
+.input input {
+  padding: 7px 10px;
+  width: 80%;
+}
